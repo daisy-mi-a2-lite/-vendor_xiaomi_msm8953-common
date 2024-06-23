@@ -626,3 +626,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcsconfig-V1.0-java \
     manifest_android.hardware.drm@1.2-service.widevine.xml \
     vendor.qti.gnss@3.0-service.xml
+
+PRODUCT_PACKAGES += \
+    system_ext_priv-app_ims_lib_arm64_libimscamera_jni_so \
+    system_ext_priv-app_ims_lib_arm64_libimsmedia_jni_so
