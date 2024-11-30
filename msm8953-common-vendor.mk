@@ -442,7 +442,6 @@ PRODUCT_PACKAGES += \
     tftp_server \
     thermal-engine \
     time_daemon \
-    wcnss_service_xiaomi \
     xtra-daemon \
     dpmd
 
